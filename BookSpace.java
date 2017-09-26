@@ -1,3 +1,0 @@
-class BookSpace{
-  //add stuff
-}
